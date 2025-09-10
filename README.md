@@ -55,9 +55,14 @@ print(f"Variance is : {var}")
 <img width="457" height="354" alt="Screenshot 2025-09-10 130624" src="https://github.com/user-attachments/assets/30aaccd7-81b2-400b-9755-853ae9b0e9ae" />
 
 # Output
-```
-Attach the Output waveform
-``` 
+
+![WhatsApp Image 2025-09-10 at 10 10 17 PM](https://github.com/user-attachments/assets/b1ef0c10-d9ed-40e2-91ca-71842e333fe2)
+![WhatsApp Image 2025-09-10 at 10 10 18 PM](https://github.com/user-attachments/assets/061ef0ee-5e1f-4f74-ab7a-6768237a1197)
+![WhatsApp Image 2025-09-10 at 10 10 22 PM](https://github.com/user-attachments/assets/ce4ad2bd-8b3a-4c39-acdb-b613b7056f83)
+![WhatsApp Image 2025-09-10 at 10 10 26 PM](https://github.com/user-attachments/assets/a06e5f20-ba53-4927-be75-e6c4ff4aa5ae)
+
+
+
 # Results:
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
 Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484

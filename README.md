@@ -65,4 +65,13 @@ print(f"Variance is : {var}")
 
 # Results:
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
-Average Codeword Length is : 2.625 Entropy is : 2.625 Efficiency is : 100.0 % Redudancy is : 0.0 Variance is : 0.484
+
+Average Codeword Length is : 2.625 
+
+Entropy is : 2.625 
+
+Efficiency is : 100.0 % 
+
+Redudancy is : 0.0 
+
+Variance is : 0.484

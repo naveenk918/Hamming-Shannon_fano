@@ -10,7 +10,7 @@ Calculate the average code word length, entropy, variance, redundancy, and effic
 # Tools Required:
 python IDE with Numpy and Scipy.
 # Program:
-```
+```python
 import numpy as np
 import math 
 L  = 0
